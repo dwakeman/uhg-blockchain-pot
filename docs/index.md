@@ -4,4 +4,6 @@
 
 ## Labs
 
-## Images
+## Locations
+- Basking Ridge
+- Boston
